@@ -7,3 +7,5 @@ a=0.225
 b= 0.665
 
 dist = numpy.linalg.norm(a-b)
+
+print(dist)
