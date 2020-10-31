@@ -1,1 +1,7 @@
 
+
+Go
+update rostos
+
+set
+	Vetor = Replace(Replace(Vetor, '[array(',''),')]','');
